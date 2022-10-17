@@ -11,15 +11,20 @@ Our complementary sentence-level annotation file is at [here](https://github.com
 
 ## Run Model
 
-To reproduce our results, please set appropriate file path parameters, and set _do_train_, _do_eval_, or _do_predict_ as True for model training, evaluation, or prediction. Then for rouge retrieval (similar for other retrieval methods), run
+To reproduce our results, please set appropriate file path parameters, and set _do_train_, _do_eval_, or _do_predict_ as True for model training, evaluation, or prediction. Then for rouge retrieval (similar for other retrieval methods), please run
 
 ```
 python rouge_retrieval_base.py
 ```
 
-To conduce sentence-level evalaution, please set appropriate file path parameters. Then for rouge retrieval (similar for other retrieval methods), run
+To conduce sentence-level evalaution, please set appropriate file path parameters. Then for rouge retrieval (similar for other retrieval methods), please run
 
 ```
 python rouge_retrieval_base_sentence_evaluation.py
 ```
+
+### Checkpoint Files
+
+Our checkpoint files for [base encoder](https://pan.baidu.com/s/1oMT359bjRtK0gmJBbWUBdw?pwd=tc6s) and [large encoder]() are also released.
+
 
