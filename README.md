@@ -2,3 +2,9 @@
 
 This is the repository for our EMNLP 2022 paper:
 _R<sup>2</sup>F: A General Retrieval, Reading and Fusion Framework for Document-level Natural Language Inference_
+
+## Prepare dataset
+
+Please download [DOCNLI dataset](https://drive.google.com/file/d/16TZBTZcb9laNKxIvgbs5nOBgq3MhND5s/view?usp=sharing).
+
+Our complementary sentence-level annotation file is at [here](https://github.com/phoenixsecularbird/R2F/blob/main/dataset/sentence-level%20annotation.json).
