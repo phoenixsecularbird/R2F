@@ -126,15 +126,15 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--model_name_or_path",
-                        default="/mnt/lustrenew/wanghao1.vendor/doc_nli/roberta-base",
+                        default="",
                         type=str,
                         help="name or directory path for pretrained language models.")
     parser.add_argument("--dataset_dir",
-                        default="/mnt/lustrenew/wanghao1.vendor/doc_nli/docnli_dataset",
+                        default="",
                         type=str,
                         help="directory path to store the dataset.")
     parser.add_argument("--ckpt_dir",
-                        default="ckpt_rouge_inference_top_5_new_debug",
+                        default="",
                         type=str,
                         help="directory path to store the checkpoint files.")
     parser.add_argument("--evaluation_file",
