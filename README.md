@@ -17,7 +17,7 @@ To reproduce our results, please set appropriate file path parameters, and set _
 python rouge_retrieval_base.py
 ```
 
-To conduce sentence-level evalaution, please set appropriate file path parameters. Then for rouge retrieval (similar for other retrieval methods), please run
+To conduct sentence-level evalaution, please set appropriate file path parameters. Then for rouge retrieval (similar for other retrieval methods), please run
 
 ```
 python rouge_retrieval_base_sentence_evaluation.py
