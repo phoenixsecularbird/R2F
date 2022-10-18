@@ -23,15 +23,15 @@ To conduce sentence-level evalaution, please set appropriate file path parameter
 python rouge_retrieval_base_sentence_evaluation.py
 ```
 
-### Checkpoint Files
+## Checkpoint Files
 
 Our checkpoint files for [base encoder](https://pan.baidu.com/s/1oMT359bjRtK0gmJBbWUBdw?pwd=tc6s) and [large encoder](https://pan.baidu.com/s/1xffx_HJkvH0AeszZ4_Er4Q?pwd=i5qw) are also released.
 
-### Contact
+## Contact
 
 If you have any question about our work, please feel free to contact us at hao.wang@nudt.edu.cn.
 
-### Citation
+## Citation
 
 Please cite our work as
 {  
